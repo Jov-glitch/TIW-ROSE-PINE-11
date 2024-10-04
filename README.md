@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Configuraci n de workspace para Windows 11
 
 Este proyecto es un script de Powershell que aplica mi configuraci n de tema de Windows 11 y otros programas de utilidad. La idea es que cada vez que instale Windows, pueda simplemente ejecutar este script y tener mi configuraci n habitual lista.
@@ -27,3 +28,6 @@ Este proyecto es un script de Powershell que aplica mi configuraci n de tema de 
 ## Cr dito
 
 Este proyecto est basado en el proyecto de [Windows 11 Theme](https://github.com/microsoft/Windows-11-Theme) de Microsoft.
+=======
+# TIW-ROSE-PINE-11
+>>>>>>> 54d28ed75835e16436cb9c01d067e4086dd356a5
