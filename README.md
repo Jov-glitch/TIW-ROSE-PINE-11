@@ -26,5 +26,5 @@ Este proyecto es un script de Powershell que aplica mi configuracion de tema de 
 
 ## Credito
 
-Este proyecto esta basado en el proyecto de [Windows 11 Theme](https://github.com/microsoft/Windows-11-Theme) de Microsoft.
+Este proyecto esta basado en el proyecto de [rosepine-theme-windows](https://github.com/darkthemer/rosepine-theme-windows) de darkthemer.
 
