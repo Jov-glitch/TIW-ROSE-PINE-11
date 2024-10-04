@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg17210"
+   sodipodi:docname="pictures folder.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17212"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="21.395833"
+     inkscape:cx="8.0623176"
+     inkscape:cy="24.116846"
+     inkscape:window-width="2560"
+     inkscape:window-height="1310"
+     inkscape:window-x="-11"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g17186" />
+  <rect
+     x="5.2499995"
+     y="5.25"
+     width="37.5"
+     height="37.5"
+     rx="5.3571429"
+     fill="#11111b"
+     id="rect17176"
+     style="fill:#2a283e;fill-opacity:1;stroke-width:1.07143" />
+  <g
+     clip-path="url(#clip0)"
+     id="g17186"
+     transform="matrix(1.0714286,0,0,1.0714286,-2.2500006,-1.1785714)">
+    <path
+       d="M 25.2,6 H 36.9999 C 39.7614,6 42,8.23858 42,11 V 22.8 H 31.2 c -3.3138,0 -6,-2.6863 -6,-6 z"
+       fill="#f5c2e7"
+       id="path17178"
+       style="fill:#9ccfd8;fill-opacity:1" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 30.4,9.8 c -0.3183,0 -0.6235,0.12643 -0.8486,0.3515 C 29.3264,10.3765 29.2,10.6817 29.2,11 v 6 c 0,0.3183 0.1264,0.6235 0.3514,0.8485 C 29.7765,18.0736 30.0817,18.2 30.4,18.2 h 7.2 c 0.3182,0 0.6234,-0.1264 0.8485,-0.3515 C 38.6735,17.6235 38.8,17.3183 38.8,17 v -6 c 0,-0.3183 -0.1265,-0.6235 -0.3515,-0.8485 C 38.2234,9.92643 37.9182,9.8 37.6,9.8 Z m 7.2,7.2 h -7.2 l 2.4,-4.8 1.8,3.6 1.2,-2.4 z"
+       fill="#11111b"
+       id="path17184"
+       style="fill:#2a283e;fill-opacity:1" />
+  </g>
+  <defs
+     id="defs17208">
+    <filter
+       id="filter0_d"
+       x="21.1"
+       y="5.2"
+       width="42.5"
+       height="42.5"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood17188" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix17190" />
+      <feOffset
+         dy="4"
+         id="feOffset17192" />
+      <feGaussianBlur
+         stdDeviation="8"
+         id="feGaussianBlur17194" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite17196" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"
+         id="feColorMatrix17198" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow"
+         id="feBlend17200" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow"
+         result="shape"
+         id="feBlend17202" />
+    </filter>
+    <clipPath
+       id="clip0">
+      <path
+         d="M25.2 6H36.9999C39.7614 6 42 8.23858 42 11V22.8H31.2C27.8862 22.8 25.2 20.1137 25.2 16.8V6Z"
+         fill="white"
+         id="path17205" />
+    </clipPath>
+  </defs>
+</svg>

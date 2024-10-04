@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg69658"
+   sodipodi:docname="drive-harddisk.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview69660"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="21.395833"
+     inkscape:cx="19.980526"
+     inkscape:cy="24"
+     inkscape:window-width="2560"
+     inkscape:window-height="1349"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg69658" />
+  <path
+     opacity="0.2"
+     d="M40 7V43C40 44.1046 39.1046 45 38 45H10C8.89543 45 8 44.1046 8 43V7C8 5.89543 8.89543 5 10 5H38C39.1046 5 40 5.89543 40 7Z"
+     fill="black"
+     id="path69639" />
+  <path
+     d="M40 6V42C40 43.1046 39.1046 44 38 44H10C8.89543 44 8 43.1046 8 42V6C8 4.89543 8.89543 4 10 4H38C39.1046 4 40 4.89543 40 6Z"
+     fill="#8E8E8E"
+     id="path69641" />
+  <path
+     opacity="0.5"
+     d="M24 10C29.5228 10 34 14.4772 34 20C34 25.5228 29.5228 30 24 30H14V20C14 14.4772 18.4772 10 24 10ZM24 15C21.2386 15 19 17.2386 19 20C19 22.7614 21.2386 25 24 25C26.7614 25 29 22.7614 29 20C29 17.2386 26.7614 15 24 15Z"
+     fill="black"
+     id="path69643" />
+  <path
+     opacity="0.2"
+     d="M10 4C8.892 4 8 4.892 8 6V7C8 5.892 8.892 5 10 5H38C39.108 5 40 5.892 40 7V6C40 4.892 39.108 4 38 4H10Z"
+     fill="white"
+     id="path69645" />
+  <rect
+     x="4"
+     y="4"
+     width="40"
+     height="40"
+     rx="3"
+     fill="url(#paint0_linear)"
+     id="rect69647" />
+  <path
+     d="M24 10C31.7319 10 38 16.2681 38 24C38 31.7319 31.7319 38 24 38H10V24C10 16.2681 16.2681 10 24 10ZM24 17C20.134 17 17 20.134 17 24C17 27.866 20.134 31 24 31C27.866 31 31 27.866 31 24C31 20.134 27.866 17 24 17Z"
+     fill="#11111b"
+     id="path69649"
+     style="fill:#2a283e;fill-opacity:1" />
+  <defs
+     id="defs69656">
+    <linearGradient
+       id="paint0_linear"
+       x1="-30.6429"
+       y1="71.1429"
+       x2="82.5714"
+       y2="-18.5"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fab387"
+         id="stop69651"
+         offset="0"
+         style="stop-color:#ea9a97;stop-opacity:1;" />
+      <stop
+         offset="0.919448"
+         stop-color="#fab387"
+         id="stop69653" />
+    </linearGradient>
+  </defs>
+</svg>
