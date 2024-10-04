@@ -1,33 +1,30 @@
-<<<<<<< HEAD
-# Configuraci n de workspace para Windows 11
+# Configuracion de workspace para Windows 11
 
-Este proyecto es un script de Powershell que aplica mi configuraci n de tema de Windows 11 y otros programas de utilidad. La idea es que cada vez que instale Windows, pueda simplemente ejecutar este script y tener mi configuraci n habitual lista.
+Este proyecto es un script de Powershell que aplica mi configuracion de tema de Windows 11 y otros programas de utilidad. La idea es que cada vez que instale Windows, pueda simplemente ejecutar este script y tener mi configuracion habitual lista.
 
-## C mo usar
+## Como usar
 
-1. Descarga el script de configuraci n de tema y los archivos de configuraci n necesarios.
+1. Descarga el script de configuracion de tema y los archivos de configuracion necesarios.
 2. Abre una consola de Powershell como administrador.
-3. Ejecuta el script de configuraci n de tema.
+3. Ejecuta el script de configuracion de tema.
 
-## Qu se incluye en la configuraci n
+## Que se incluye en la configuracion
 
 * Tema de Windows 11.
 * Programas de utilidad:
 	+ Chocolatey (para instalar paquetes de software).
 	+ Git (control de versiones).
-	+ Visual Studio Code (editor de c digo).
-	+ Node.js (entorno de ejecuci n de JavaScript).
+	+ Visual Studio Code (editor de codigo).
+	+ Node.js (entorno de ejecucion de JavaScript).
 
-## Qu se incluye en el tema
+## Que se incluye en el tema
 
 * Iconos de carpeta personalizados.
 * Fuentes y colores personalizados.
-* Configuraci n de la barra de tareas.
-* Configuraci n del men  Inicio.
+* Configuracion de la barra de tareas.
+* Configuracion del menu Inicio.
 
-## Cr dito
+## Credito
 
-Este proyecto est basado en el proyecto de [Windows 11 Theme](https://github.com/microsoft/Windows-11-Theme) de Microsoft.
-=======
-# TIW-ROSE-PINE-11
->>>>>>> 54d28ed75835e16436cb9c01d067e4086dd356a5
+Este proyecto esta basado en el proyecto de [Windows 11 Theme](https://github.com/microsoft/Windows-11-Theme) de Microsoft.
+
